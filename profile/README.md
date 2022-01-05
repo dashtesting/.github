@@ -1,4 +1,4 @@
-## Dash Testing
+## Dash Testing Organization
 > Organization for testing features, used by Dash Incubator
 
 The main purpose of this organization right now is to test features in preparation for Dash Incubator's migration from Trello to GitHub.
