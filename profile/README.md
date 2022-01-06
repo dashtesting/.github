@@ -26,8 +26,9 @@ The main purpose of this organization right now is to test features in preparati
 - Discuss with AJ
   - pros and cons of having a repo for each bounty
   - what is the plan to add issues to projects (beta)
-  - should we do comments yet
+  - should we do comments yet (probably not)
 - Revise script to:
+  - add issues to project(s), [using the API](https://docs.github.com/en/issues/trying-out-the-new-projects-experience/using-the-api-to-manage-projects) 
   - exclude (filter out) archieved and completed bounties/cards
   - add labels to issues
   - push issues to a new repo
