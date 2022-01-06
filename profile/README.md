@@ -34,4 +34,5 @@ The main purpose of this organization right now is to test features in preparati
 - Notes on making new repo for each bounty (Trello card):
   - Tasks would be the only issues (manage issues with projects instead of nested/tracking issues in one repo).
   - we could make tracking issues for lists (spec, prod, etc) but not sure we care to do that (what value is tracking tasks by that type adding?).
-
+- Other ideas:
+  - create a new user to run the script and do the issue/repo creating
